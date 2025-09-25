@@ -23,7 +23,7 @@ Visual Paradigm
 
 We will use Visual Paradigm in the database section of the course. You are also encouraged to use its class diagram feature when doing your homework, but it is not required.
 
-{{% resource_link "909c824c-0a86-4548-801a-e23f88224342" "Visual Paradigm" %}}
+[Visual Paradigm](http://www.visual-paradigm.com/product/vpuml/)
 
 Click the "Get a Free Community Edition" button in the top right.
 
@@ -32,13 +32,13 @@ SQL Server 2008 Express
 
 We will use SQL Server in the database section of the course, and for homework after that as well.
 
-{{% resource_link "6f976014-c946-47de-9420-5b7c0cd4c6bb" "Microsoft SQL Server 2008 Express Edition" %}}
+[Microsoft SQL Server 2008 Express Edition](http://www.microsoft.com/express/Database/)
 
 You will need to install SQL Server 2008 Express with Management Tools, which includes the SQL Server database engine and SQL Server Management Studio Basic. You can download both these software packages from the above site.
 
-_September 2020 Update_: This course was originally developed using Microsoft SQL Server JDBC Driver 3.0 which is no longer supported by Microsoft. {{% resource_link "f28d0a64-83b5-41f0-be4c-d6c4122b38d9" "This page" %}} contains all the currently supported JDBC drivers.
+_September 2020 Update_: This course was originally developed using Microsoft SQL Server JDBC Driver 3.0 which is no longer supported by Microsoft. [This page](https://docs.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server?view=sql-server-ver15) contains all the currently supported JDBC drivers.
 
 JDBC Driver
 -----------
 
-{{% resource_link "cacd91ef-21f2-4273-a575-60c09a8b0f61" "Microsoft SQL Server JDBC Driver 3.0" %}}
+[Microsoft SQL Server JDBC Driver 3.0](http://www.microsoft.com/downloads/details.aspx?FamilyID=%20a737000d-68d0-4531-b65d-da0f2a735707&displaylang=en)
