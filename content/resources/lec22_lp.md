@@ -4,6 +4,8 @@ description: This ZIP fil contains 1 .dll file and 1 .java file.
 file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/aea117deff292dc2c50b0e4c74178f99_lec22_LP.zip
 file_size: 279904
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains the first quiz from several semesters of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

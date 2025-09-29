@@ -4,6 +4,8 @@ description: 'This ZIP file contains: 1 .txt file.'
 file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/ea201e28f995d90dd40fe00b16fd3513_itemweights.zip
 file_size: 206
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

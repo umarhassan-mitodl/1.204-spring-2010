@@ -4,6 +4,8 @@ description: 'This ZIP file contains: 1 .java file.'
 file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/7498c9225d5a550f9ab0d6f00914e869_DuctTestFragment.zip
 file_size: 1041
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

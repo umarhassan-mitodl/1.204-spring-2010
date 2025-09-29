@@ -4,6 +4,8 @@ description: New file Uplaod
 file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/8d145513ab6caadc8d108689f04d5127_lec21a.zip
 file_size: 1337
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

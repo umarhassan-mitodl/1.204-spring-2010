@@ -4,6 +4,8 @@ description: 'This ZIP file contains: 4 .java files and 1 .zip file.'
 file: /courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/72003c6f78b3e9dd4c05c18db324bae8_lec22.zip
 file_size: 9436
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
