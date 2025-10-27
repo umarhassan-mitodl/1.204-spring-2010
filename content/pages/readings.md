@@ -37,7 +37,7 @@ ASSIGNED CHAPTERS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262032933) Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. _Introduction to Algorithms_. 2nd ed. Cambridge, MA: MIT Press, 2001. ISBN: 9780262032933.
+{{% resource_link "db37e60d-acba-4e9a-9c5e-54d00c2b3c3c" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. _Introduction to Algorithms_. 2nd ed. Cambridge, MA: MIT Press, 2001. ISBN: 9780262032933.
 {{< tdclose >}}
 {{< tdopen >}}
 None. Use to supplement Horowitz as needed.
